@@ -1,4 +1,4 @@
-**CODSOFT Machine Learning Projects:**
+**ML101:**
 
 This repository contains three machine learning projects I have worked on, focusing on different classification tasks: Spam SMS Recognition, Fraud Credit Card Transactions Detection, and Customer Churn Prediction. Each project uses various classifiers such as Logistic Regression, SVM, Naive Bayes, and Random Forest.
 
